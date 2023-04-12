@@ -101,7 +101,7 @@
         transform: translate(0,0);
     }
     100%{
-        transform: translate(75vw,0);
+        transform: translate(85vw,0);
     }
 }
 @keyframes move-left{
@@ -109,6 +109,6 @@
         transform: translate(0,0);
     }
     100%{
-        transform: translate(-75vw,0);
+        transform: translate(-85vw,0);
     }
 }
